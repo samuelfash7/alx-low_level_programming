@@ -1,4 +1,3 @@
-#include <unistd.h>
 /*
  * File: 101-quote.c
  * Auth: Prince Solomon
