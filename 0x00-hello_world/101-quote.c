@@ -1,4 +1,5 @@
-
+#include <unistd.h>
+/*
  * File: 101-quote.c
  * Auth: Prince Solomon
  */
@@ -14,3 +15,5 @@ int main(void)
 			59);
 	return (1);
 }
+Prince Solom
+
